@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Faheema Residence Housewarming</title>
+
+  <!-- WhatsApp Preview -->
+  <meta property="og:title" content="Faheema Residence Housewarming – 16 Aug 2026" />
+  <meta property="og:description" content="You are cordially invited to our housewarming ceremony." />
+  <meta property="og:image" content="https://your-vercel-domain.vercel.app/preview.jpg" />
+  <meta property="og:url" content="https://your-vercel-domain.vercel.app" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="card">
+    <h1>🏡 Faheema Residence</h1>
+    <h2>Housewarming Ceremony</h2>
+
+    <p class="date">📅 16 August 2026</p>
+    <p class="venue">📍 Deira, Dubai</p>
+
+    <p class="msg">
+      We warmly invite you and your family to join us on this blessed occasion.
+    </p>
+
+    <p class="family">
+      Hosted by<br/>
+      S. Abulkalam Azad (late)<br/>
+      S. Jeevanisa Begum<br/>
+      S. Gulam Hussain (late)<br/>
+      G. Safiya Jailani
+    </p>
+  </div>
+</body>
+</html>
