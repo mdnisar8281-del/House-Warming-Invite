@@ -1,45 +1,97 @@
 body {
   margin: 0;
   padding: 0;
+  background: #f5f3ef;
   font-family: "Segoe UI", sans-serif;
-  background: #f7f7f7;
 }
 
-.card {
-  max-width: 500px;
-  margin: 40px auto;
+.invite-card {
+  max-width: 650px;
+  margin: 30px auto;
   background: white;
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.arabic-header {
   text-align: center;
+  margin-bottom: 20px;
 }
 
-h1 {
-  margin-bottom: 5px;
-  font-size: 28px;
+.arabic-header h2 {
+  font-size: 26px;
+  margin: 0;
+  color: #8b6f47;
 }
 
-h2 {
-  margin-top: 0;
-  font-size: 20px;
+.arabic-header p {
+  margin: 5px 0;
+  font-size: 16px;
   color: #444;
 }
 
-.date, .venue {
-  font-size: 18px;
-  margin: 10px 0;
+.section {
+  margin: 30px 0;
+  text-align: center;
 }
 
-.msg {
-  margin: 20px 0;
+.section h1 {
+  font-size: 26px;
+  margin-bottom: 5px;
+  color: #8b6f47;
+}
+
+.section h2 {
+  font-size: 22px;
+  margin-top: 0;
+  color: #333;
+}
+
+.parents, .message {
   font-size: 16px;
   color: #555;
+  margin: 15px 0;
+  line-height: 1.6;
 }
 
-.family {
-  margin-top: 25px;
-  font-size: 15px;
+.details {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #444;
+  line-height: 1.8;
+}
+
+.tamil {
+  font-family: "Latha", "Noto Sans Tamil", sans-serif;
+}
+
+.tamil-text {
+  font-size: 17px;
+  color: #555;
+  line-height: 1.8;
+}
+
+.home-image {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.home-image img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.caption {
+  margin-top: 10px;
+  font-size: 16px;
   color: #666;
-  line-height: 1.6;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 16px;
+  color: #444;
 }

@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>Faheema Residence Housewarming</title>
+  <title>Faheema’s Residence – Housewarming Invitation</title>
 
   <!-- WhatsApp Preview -->
-  <meta property="og:title" content="Faheema Residence Housewarming – 16 Aug 2026" />
-  <meta property="og:description" content="You are cordially invited to our housewarming ceremony." />
+  <meta property="og:title" content="Faheema’s Residence – Housewarming Invitation" />
+  <meta property="og:description" content="Tamil + English Islamic Housewarming Invitation – 16 August 2026" />
   <meta property="og:image" content="https://your-vercel-domain.vercel.app/preview.jpg" />
   <meta property="og:url" content="https://your-vercel-domain.vercel.app" />
 
@@ -16,24 +15,53 @@
 </head>
 
 <body>
-  <div class="card">
-    <h1>🏡 Faheema Residence</h1>
-    <h2>Housewarming Ceremony</h2>
+  <div class="invite-card">
 
-    <p class="date">📅 16 August 2026</p>
-    <p class="venue">📍 Deira, Dubai</p>
+    <!-- Arabic Header -->
+    <div class="arabic-header">
+      <h2>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ</h2>
+      <p>With the blessings of Allah</p>
+    </div>
 
-    <p class="msg">
-      We warmly invite you and your family to join us on this blessed occasion.
-    </p>
+    <!-- English Section -->
+    <div class="section">
+      <h1>Housewarming Ceremony</h1>
+      <h2>Faheema’s Residence</h2>
 
-    <p class="family">
-      Hosted by<br/>
-      S. Abulkalam Azad (late)<br/>
-      S. Jeevanisa Begum<br/>
-      S. Gulam Hussain (late)<br/>
-      G. Safiya Jailani
-    </p>
-  </div>
-</body>
-</html>
+      <p class="parents">
+        Abulkalam Asad (Late) & Jeevanisa Begum<br/>
+        Gulam Hussain (Late) & Safiya Jailani<br/>
+        & their Family
+      </p>
+
+      <p class="message">
+        Cordially invite you and your family to grace the occasion of our newly built home.
+      </p>
+
+      <div class="details">
+        <p><strong>Date:</strong> 16 August 2026 (Sunday)</p>
+        <p><strong>Islamic Date:</strong> Rabiyul Awwal 2, Hijri 1448</p>
+        <p><strong>Time:</strong> 11:30 AM onwards</p>
+        <p><strong>Venue:</strong> 1, Railway Feeder Road, Aruppukottai</p>
+        <p><strong>Lunch:</strong> M.S. Mahal, Railway Feeder Road, Aruppukottai</p>
+      </div>
+    </div>
+
+    <!-- Tamil Section -->
+    <div class="section tamil">
+      <h1>புதுமனை புகுவிழா</h1>
+      <h2>Faheema’s Residence</h2>
+
+      <p class="tamil-text">
+        அல்லாஹ்வின் பேரருளாலும் நபி (ஸல்) அவர்களின் பரிந்துரையாலும்<br/>
+        எங்கள் புதிதாக கட்டியுள்ள இல்லத்தின்<br/>
+        புதுமனை புகுவிழாவிற்கு தங்கள் குடும்பத்துடன்<br/>
+        கலந்து கொண்டு தங்கள் செல்வம் வாழ்ந்திடுமாறு<br/>
+        அன்புடன் அழைக்கிறோம்.
+      </p>
+
+      <div class="details tamil-details">
+        <p><strong>தேதி:</strong> ஆகஸ்ட் 16, 2026 (ஞாயிறு)</p>
+        <p><strong>இஸ்லாமிய தேதி:</strong> ரபியுல் அவ்வல் பிறை 2, ஹிஜ்ரீ 1448</p>
+        <p><strong>நேரம்:</strong> காலை 11:30 மணி</p>
+        <p><strong>இடம்:</strong> 1, ராயல்வே ஸ்ட்ரீ
